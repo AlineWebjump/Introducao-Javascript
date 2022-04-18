@@ -1,6 +1,6 @@
 # Introducao-Javascript
 
-Código do curso iniciante de Javascript.
+Código do curso da Alura "JavaScript: programando na linguagem web".
 
 Nesse projeto foi possível trabalhar uma página com dados de pacientes de uma nutricionista. 
 Foram desenvolvidas as funcionalidades de adição e remoção de pacientes da lista, filtrar pacientes pelo nome, verificação de dados de input, cálculo do IMC dos pacientes, dentre outras.
